@@ -1,3 +1,0 @@
-public static void bug01_method(){
-	System.out.print();
-}
