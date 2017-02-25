@@ -1,0 +1,3 @@
+public Person getObject(){
+	System.out.print("获取人物");
+}
