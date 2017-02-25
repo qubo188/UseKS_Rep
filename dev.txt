@@ -1,0 +1,4 @@
+public Person getObject(){
+
+	System.out,println("zhangsan");
+}
