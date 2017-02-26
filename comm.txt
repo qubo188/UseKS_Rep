@@ -1,2 +1,3 @@
 github 自己创建了一个 comm.txt文件。共jiaojian 和 qb 来进行共同的修改
 qb add message 
+jiaojian add message
