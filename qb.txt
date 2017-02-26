@@ -1,1 +1,6 @@
 qb 自己添加了一个qb.txt文件
+public static void qb_method(){
+
+	Person p = new Person();
+	System.out.println(p);
+}
