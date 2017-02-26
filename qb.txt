@@ -4,3 +4,13 @@ public static void qb_method(){
 	Person p = new Person();
 	System.out.println(p);
 }
+
+public class Test{
+	
+	public void  test(){
+		System.out.print("Test");
+	}
+}
+
+
+
