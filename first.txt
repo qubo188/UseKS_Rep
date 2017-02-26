@@ -9,3 +9,5 @@ master and dev_qubo  同时append 台式机-101-append-版本回退04
 
 
 master and aaa update first.txt
+
+master此时使用github上面，做了修改，我添加了一句话“github”
